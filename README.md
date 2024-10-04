@@ -1,2 +1,2 @@
-# Basic C++ projects
-Here I have uploaded some basic C++ projects
+# C++ projects
+Here I have uploaded some C++ projects
